@@ -1,4 +1,4 @@
-# flutter_application_3
+# Todo App with Flutter 2.0
 
 A new Flutter project.
 
